@@ -75,6 +75,15 @@ The system produces:
 - Classification of individuals based on inferred roles
 
 ---
+## Example
+
+Input:
+A dataset of participants, test results, and contact groups over multiple days.
+
+Output:
+- Inferred infection windows
+- Possible transmission sources
+- Updated state tables over time
 
 ## Example Usage
 
